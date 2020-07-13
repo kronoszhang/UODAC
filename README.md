@@ -11,4 +11,9 @@
 ![](https://github.com/ChronousZhang/UODAC/blob/master/2.png)
 ![](https://github.com/ChronousZhang/UODAC/blob/master/3.png)
 
-## 2. 
+## 2. 数据集
+训练：5543张jpg图像
+测试A: 800张jpg图像
+测试B: 1200张jpg图像
+
+
