@@ -7,6 +7,8 @@
 主要目标： 水下机器人自动检测五种海鲜（海参、海胆、扇贝、海星），或保护或捕捞咱也不知道。
 
 数据样例：
-
+![](https://github.com/ChronousZhang/UODAC/blob/master/1.png)
+![](https://github.com/ChronousZhang/UODAC/blob/master/2.png)
+![](https://github.com/ChronousZhang/UODAC/blob/master/3.png)
 
 ## 2. 
