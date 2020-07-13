@@ -18,5 +18,7 @@
 
 
 ## 3. 方案
-* 模型： cascadeRCNN50 + cascadeRCNN-SE + cascadeRCNN101 
+* 模型： cascadeRCNN-r50 + cascadeRCNN-SE + cascadeRCNN-x101 
+* 融合： WBF
+* 数据增强： 裁剪翻转镜像，颜色抖动校准，mixup等
 
